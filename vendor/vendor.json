@@ -1,3 +1,4 @@
 {
-	"rootPath": "github.com/onomuta/onom-go-test"
+	"rootPath": "github.com/onomuta/onom-go-test",
+	"GoVersion": "go1.9"
 }
